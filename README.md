@@ -1,4 +1,4 @@
-### Welcome!,I'm **Matheus Barbedo**
+### Welcome!, I'm **Matheus Barbedo**
 
 - :arrow_forward:  I’m currently working on **Autoglass**
 - :arrow_forward:  Aspiring Programming
