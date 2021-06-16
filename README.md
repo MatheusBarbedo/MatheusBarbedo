@@ -4,9 +4,13 @@
  
  :arrow_forward:  Aspiring Programming
  
+ :arrow_forward: learning about frontend and backend seeking to be a full stack developer
+ 
  :arrow_forward:  You can send me an email > **[Email](mailto:matheus.barbedo.2001@gmail.com)**
  
  :arrow_forward:  Projects > **[Projects](https://github.com/MatheusBarbedo?tab=repositories)**
+ 
+
  
 
 <h3 align="left">Connect:</h3>
