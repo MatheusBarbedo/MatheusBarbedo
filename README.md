@@ -2,7 +2,7 @@
 <h3 align="center">Senior Fullstack (.NET + Angular)</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-eugenio-barbedo-da-silva-109967194/" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-eugenio-barbedo-da-silva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Barbedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:matheus.barbedo.2001@gmail.com">
