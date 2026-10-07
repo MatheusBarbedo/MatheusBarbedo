@@ -19,7 +19,7 @@
 
 <h3>About</h3>
 <ul>
-  <li>💼 Senior Full Stack Developer at <b>Autoglass</b> since 2021 (Intern → Junior → Mid-level → Senior).</li>
+  <li>💼 Senior Full Stack Developer at <b>Autoglass</b> since 2021.</li>
   <li>🧠 Focused on <b>backend, APIs and integrations</b> with C#/.NET, plus front end with Angular.</li>
   <li>🔧 Experience modernizing <b>legacy systems</b> and building <b>products from scratch</b>, from lean inception to production.</li>
   <li>📈 I care about <b>performance, scalability, quality and observability</b>, with DDD, SOLID, Clean Code and tests.</li>
