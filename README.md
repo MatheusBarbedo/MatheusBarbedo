@@ -17,11 +17,15 @@ Senior full stack developer at **Autoglass** since 2021, based in Vitória, Braz
 |---|---|---|
 | [context-saver](https://github.com/MatheusBarbedo/context-saver) | Token saver for AI coding agents: a hook compresses verbose command output and keeps the exit code | Node.js, zero dependencies |
 | [Copylândia](https://github.com/MatheusBarbedo/copylandia-backend) | Self-service printing kiosk with Pix checkout and payment webhook (capstone) | .NET 8, Angular, EF Core |
+| [Hub CZN](https://github.com/sostenesfreitas/hub-czn/pulls?q=is%3Apr+author%3AMatheusBarbedo) | Open source contribution: the deck builder section of a game optimizer, five merged pull requests | Tauri 2, React, TypeScript |
+| [RPG VTT](https://github.com/MatheusBarbedo/RPG-VVT) | Virtual tabletop with real-time chat, dice, grid map, tokens and fog of war | Node.js, Socket.IO, SQLite |
 | [e7-shop-refresher](https://github.com/MatheusBarbedo/e7-shop-refresher) | Game shop automation with a GUI, OCR and an installer | Python, ADB, Tesseract |
 | Nosso Dinheiro | Desktop finance app for couples with expense splitting and budgets (private) | Tauri 2, React, Supabase |
 | limbus-companion | Desktop companion that reads live game state and automates runs (private) | Tauri 2, Vue 3, C++ |
 
 More on the [portfolio](https://matheusbarbedo.github.io/projetos.html).
+
+**Earlier work (college, 2021 to 2023):** [BancoJava](https://github.com/MatheusBarbedo/BancoJava), [LocadoraVeiculo](https://github.com/MatheusBarbedo/LocadoraVeiculo), [OnibusAnimation](https://github.com/MatheusBarbedo/OnibusAnimation) (image processing in C#) and [EventosPalestrantes](https://github.com/MatheusBarbedo/EventosPalestrantes) (Angular 12).
 
 ## Stack
 
